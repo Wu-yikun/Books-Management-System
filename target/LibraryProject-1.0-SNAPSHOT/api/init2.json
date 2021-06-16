@@ -1,0 +1,60 @@
+{
+  "homeInfo": {
+    "title": "首页",
+    "href": "welcome"
+  },
+  "logoInfo": {
+    "title": "借阅平台",
+    "image": "images/favicon.ico",
+    "href": ""
+  },
+  "menuInfo": [
+    {
+      "title": "功能管理",
+      "icon": "fa fa-address-book",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "消息公告",
+          "href": "noticeIndexOfReader",
+          "icon": "fa fa-window-maximize",
+          "target": "_self"
+        },
+        {
+          "title": "借阅记录",
+          "href": "queryLookBookList2",
+          "icon": "fa fa-gears",
+          "target": "_self"
+        },
+        {
+          "title": "书籍借阅",
+          "href": "lendListIndexOfReader",
+          "icon": "fa fa-window-maximize",
+          "target": "_self"
+        },
+        {
+          "title": "藏书馆",
+          "href": "bookIndexOfReader",
+          "icon": "fa fa-book",
+          "target": "_self"
+        }
+      ]
+    },
+    {
+      "title": "统计分析",
+      "icon": "fa fa-bar-chart",
+      "href": "",
+      "target": "_self",
+      "child": [
+        {
+          "title": "书籍归纳",
+          "href": "statisticIndex",
+          "icon": "fa fa-superpowers",
+          "target": "_self"
+        }
+      ]
+    }
+  ]
+}
+
