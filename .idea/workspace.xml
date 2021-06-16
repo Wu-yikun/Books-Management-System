@@ -9,33 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5c083c56-5fe0-49ee-abb4-5818b547a8c1" name="默认更改列表" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/BookInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yx/controller/BookInfoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/LendListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yx/controller/LendListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yx/interceptor/LoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/lend/lendListIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/lend/lendListIndex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/notice/noticeIndexOfBack.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/notice/noticeIndexOfBack.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/notice/noticeIndexOfReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/notice/noticeIndexOfReader.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/pwdUpdate/updatePwd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/pwdUpdate/updatePwd.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/reader/updateReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/reader/updateReader.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/api/init.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/api/init.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/api/init2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/api/init2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/js/lay-module/layuimini/miniTab.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/js/lay-module/layuimini/miniTab.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BookInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BookInfoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LendListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LendListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/interceptor/LoginInterceptor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/lend/lendListIndex.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/lend/lendListIndex.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/notice/noticeIndexOfBack.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/notice/noticeIndexOfBack.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/notice/noticeIndexOfReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/notice/noticeIndexOfReader.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/pwdUpdate/updatePwd.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/pwdUpdate/updatePwd.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/reader/updateReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/reader/updateReader.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/api/init.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/api/init.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/api/init2.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/api/init2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/js/lay-module/layuimini/miniTab.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/js/lay-module/layuimini/miniTab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/BookInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/BookInfoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/LendListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/LendListController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/interceptor/LoginInterceptor.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -254,7 +228,7 @@
       <workItem from="1619945652371" duration="7862000" />
       <workItem from="1619966055497" duration="188000" />
       <workItem from="1623775966944" duration="135000" />
-      <workItem from="1623863739429" duration="954000" />
+      <workItem from="1623863739429" duration="2164000" />
     </task>
     <servers />
   </component>
