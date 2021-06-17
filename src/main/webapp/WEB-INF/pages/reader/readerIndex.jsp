@@ -77,7 +77,7 @@
                 {type: "checkbox", width: 50},
                 //{field: 'id', width: 100, title: 'ID', sort: true},
                 {field: 'readerNumber', width: 150, title: '读者卡号'},
-                {field: 'username', width: 100, title: '用户名'},
+                {field: 'username', width: 150, title: '用户名'},
                 {field: 'realName', width: 100, title: '真实姓名'},
                 {field: 'sex', width: 80, title: '性别'},
                 {field: 'tel', width: 150, title: '电话'},

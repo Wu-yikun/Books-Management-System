@@ -20,32 +20,32 @@
         <div class="layuimini-main">
             <div class="demoTable">
                 <div class="layui-form-item layui-form ">
-                    借书卡
-                    <div class="layui-inline">
-                        <input class="layui-input" name="readerNumber" id="readerNumber" autocomplete="off">
-                    </div>
+<%--                    借书卡--%>
+<%--                    <div class="layui-inline">--%>
+<%--                        <input class="layui-input" name="readerNumber" id="readerNumber" autocomplete="off">--%>
+<%--                    </div>--%>
                     图书名称
                     <div class="layui-inline">
                         <input class="layui-input" name="name" id="name" autocomplete="off">
                     </div>
-                    归还类型
-                    <div class="layui-inline">
-                        <select class="layui-input" name="type" id="type">
-                            <option value=""></option>
-                            <option value="0">正常还书</option>
-                            <option value="1">延迟还书</option>
-                            <option value="2">破损还书</option>
-                            <option value="3">丢失</option>
-                        </select>
-                    </div>
-                    图书类型
-                    <div class="layui-inline">
-                        <select class="layui-input" name="status" id="status">
-                            <option value=""></option>
-                            <option value="0">未借出</option>
-                            <option value="1">在借中</option>
-                        </select>
-                    </div>
+<%--                    归还类型--%>
+<%--                    <div class="layui-inline">--%>
+<%--                        <select class="layui-input" name="type" id="type">--%>
+<%--                            <option value=""></option>--%>
+<%--                            <option value="0">正常还书</option>--%>
+<%--                            <option value="1">延迟还书</option>--%>
+<%--                            <option value="2">破损还书</option>--%>
+<%--                            <option value="3">丢失</option>--%>
+<%--                        </select>--%>
+<%--                    </div>--%>
+<%--                    图书类型--%>
+<%--                    <div class="layui-inline">--%>
+<%--                        <select class="layui-input" name="status" id="status">--%>
+<%--                            <option value=""></option>--%>
+<%--                            <option value="0">未借出</option>--%>
+<%--                            <option value="1">在借中</option>--%>
+<%--                        </select>--%>
+<%--                    </div>--%>
                     <button class="layui-btn" data-type="reload">搜索</button>
                 </div>
             </div>
@@ -81,24 +81,24 @@
                 //{field: 'id', width: 100, title: 'ID', sort: true},
                 {
                     templet: '<div><a href="javascript:void(0)" style="color:#00b7ee" lay-event="bookInfoEvent">{{d.bookInfo.name}}</a></div>',
-                    width: 200, title: '图书名称'
+                    width: 360, title: '图书名称'
                 },
-                {
-                    templet: '<div>{{d.readerInfo.readerNumber}}</div>',
-                    width: 150, title: '借书卡'
-                },
-                {
-                    templet: '<div><a href="javascript:void(0)" style="color:#00b7ee" lay-event="readerInfoEvent">{{d.readerInfo.realName}}</a></div>',
-                    width: 190, title: '借阅人'
-                },
+                // {
+                //     templet: '<div>{{d.readerInfo.readerNumber}}</div>',
+                //     width: 150, title: '借书卡'
+                // },
+                // {
+                //     templet: '<div><a href="javascript:void(0)" style="color:#00b7ee" lay-event="readerInfoEvent">{{d.readerInfo.realName}}</a></div>',
+                //     width: 190, title: '借阅人'
+                // },
                 {
                     templet: "<div>{{layui.util.toDateString(d.lendDate,'yyyy-MM-dd HH:mm:ss')}}</div>",
-                    width: 260,
+                    width: 350,
                     title: '借阅时间'
                 },
                 {
                     field: 'backDate',
-                    width: 320,
+                    width: 390,
                     title: '还书时间'
                 },
                 {
@@ -106,13 +106,13 @@
                     minWidth: 300,
                     templet: function (res) {
                         if (res.backType == '0') {
-                            return '<span class="layui-badge layui-bg-green">正常还书</span>'
+                            return '<span class="layui-badge layui-bg-green">已归还</span>'
                         } else if (res.backType == '1') {
-                            return '<span class="layui-badge layui-bg-gray">延迟还书</span>'
+                            return '<span class="layui-badge layui-bg-green">已归还</span>'
                         } else if (res.backType == '2') {
-                            return '<span class="layui-badge layui-bg-yellow">破损还书</span>'
+                            return '<span class="layui-badge layui-bg-green">已归还</span>'
                         } else if (res.backType == '3') {
-                            return '<span class="layui-badge layui-bg-green">丢失图书</span>'
+                            return '<span class="layui-badge layui-bg-green">已归还</span>'
                         } else {
                             return '<span class="layui-badge layui-bg-red">在借中</span>'
                         }

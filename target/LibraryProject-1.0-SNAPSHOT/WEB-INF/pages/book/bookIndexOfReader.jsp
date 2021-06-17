@@ -84,8 +84,8 @@
                 {field: 'isbn', width: 200, title: '图书编号'},
                 {field: 'name', width: 200, title: '图书名称'},
                 {templet: '<div>{{d.typeInfo.name}}</div>', width: 200, title: '图书类型'},
-                {field: 'author', width: 160, title: '作者'},
-                {field: 'price', width: 160, title: '价格'},
+                {field: 'author', width: 260, title: '作者'},
+                {field: 'price', width: 320, title: '价格'},
                 {field: 'language', width: 160, title: '语言'}
             ]],
             limits: [10, 15, 20, 25, 50, 100],

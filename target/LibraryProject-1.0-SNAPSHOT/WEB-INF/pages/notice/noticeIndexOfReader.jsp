@@ -54,10 +54,10 @@
             cols: [[
                 //{type: "checkbox", width: 50},
                 //{field: 'id', width: 100, title: 'ID', sort: true},
-                {field: 'topic', width: 150, title: '公告主题'},
-                {field: 'content', width: 200, title: '公告内容'},
-                {field: 'author', width: 100, title: '发布者'},
-                {templet:"<div>{{layui.util.toDateString(d.createDate,'yyyy-MM-dd HH:mm:ss')}}</div>", width: 200, title: '发布时间'},
+                {field: 'topic', width: 300, title: '公告主题'},
+                {field: 'content', width: 350, title: '公告内容'},
+                {field: 'author', width: 160, title: '发布者'},
+                {templet:"<div>{{layui.util.toDateString(d.createDate,'yyyy-MM-dd HH:mm:ss')}}</div>", width: 350, title: '发布时间'},
                 {title: '操作', minWidth: 150, toolbar: '#currentTableBar', align: "center"}
             ]],
             limits: [10, 15, 20, 25, 50, 100],

@@ -73,7 +73,7 @@
                 {type: "checkbox", width: 50},
                 //{field: 'id', width: 100, title: 'ID', sort: true},
                 {field: 'username', width: 150, title: '用户名'},
-                {field: 'adminType', width: 200, title: '管理员类型',templet:function (res) {
+                {field: 'adminType', width: 500, title: '管理员类型',templet:function (res) {
                         if (res.adminType == '0'){
                             return '<span class="layui-btn layui-btn-normal layui-btn-xs">普通管理员</span>';
                         }else{

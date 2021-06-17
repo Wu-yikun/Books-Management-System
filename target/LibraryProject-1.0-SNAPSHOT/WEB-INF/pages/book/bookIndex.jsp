@@ -94,9 +94,9 @@
                 {type: "checkbox", width: 50},
                 //{field: 'id', width: 100, title: 'ID', sort: true},
                 {field: 'isbn', width: 100, title: '图书编号'},
-                {field: 'name', width: 100, title: '图书名称'},
+                {field: 'name', width: 150, title: '图书名称'},
                 {templet:'<div>{{d.typeInfo.name}}</div>',width:100,title:'图书类型'},
-                {field: 'author', width: 80, title: '作者'},
+                {field: 'author', width: 160, title: '作者'},
                 {field: 'price', width: 80, title: '价格'},
                 {field: 'language', width: 80, title: '语言'},
                 {title: '操作', minWidth: 150, toolbar: '#currentTableBar', align: "center"}
