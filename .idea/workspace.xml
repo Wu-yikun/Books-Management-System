@@ -8,7 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c083c56-5fe0-49ee-abb4-5818b547a8c1" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/library.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,6 +77,7 @@
   <component name="ProjectId" id="1rs9LwDTofM6E2jkfVl6ubniUUP" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -231,6 +234,11 @@
       <workItem from="1623863739429" duration="2164000" />
       <workItem from="1623901164605" duration="1204000" />
       <workItem from="1623909972357" duration="6291000" />
+      <workItem from="1623935310959" duration="231000" />
+      <workItem from="1623941491314" duration="212000" />
+      <workItem from="1623976884331" duration="893000" />
+      <workItem from="1624452444643" duration="327000" />
+      <workItem from="1624454858760" duration="1355000" />
     </task>
     <servers />
   </component>

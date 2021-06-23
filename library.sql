@@ -32,9 +32,9 @@ CREATE TABLE `admin`  (
 -- ----------------------------
 -- Records of admin
 -- ----------------------------
-INSERT INTO `admin` VALUES (1, 'admin', '12345', 1);
-INSERT INTO `admin` VALUES (2, 'yx5411', '12345', 0);
-INSERT INTO `admin` VALUES (4, 'xy1221', '12345', 0);
+INSERT INTO `admin` VALUES (1, 'w', '12345', 1);
+INSERT INTO `admin` VALUES (2, 'w', '12345', 0);
+INSERT INTO `admin` VALUES (4, 'w', '12345', 0);
 
 -- ----------------------------
 -- Table structure for book_info
@@ -134,9 +134,9 @@ CREATE TABLE `reader_info`  (
 -- ----------------------------
 -- Records of reader_info
 -- ----------------------------
-INSERT INTO `reader_info` VALUES (1, 'zhangsan', '12345', '彭于晏', '男', '2001-04-01', '江西南昌', '13767134834', 'yu123@163.com', '2021-04-02 13:18:59', '8120116041');
-INSERT INTO `reader_info` VALUES (2, 'mary', '12345', '陈恋', '女', '2004-04-01', '湖北武汉', '15270839599', 'yx123@163.com', '2021-03-06 07:57:56', '8120116044');
-INSERT INTO `reader_info` VALUES (3, 'cindy', '12345', '辛帝', '女', '2010-04-04', '北京海淀', '13834141133', 'zs1314@163.com', '2021-04-04 13:36:42', '8120116042');
+INSERT INTO `reader_info` VALUES (1, 'w', '12345', 'w', '男', '2001-04-01', '江西南昌', '13767134834', 'yu123@163.com', '2021-04-02 13:18:59', '8120116041');
+INSERT INTO `reader_info` VALUES (2, 'w', '12345', 'w', '女', '2004-04-01', '湖北武汉', '15270839599', 'yx123@163.com', '2021-03-06 07:57:56', '8120116044');
+INSERT INTO `reader_info` VALUES (3, 'w', '12345', 'w', '女', '2010-04-04', '北京海淀', '13834141133', 'zs1314@163.com', '2021-04-04 13:36:42', '8120116042');
 
 -- ----------------------------
 -- Table structure for type_info
@@ -152,11 +152,11 @@ CREATE TABLE `type_info`  (
 -- ----------------------------
 -- Records of type_info
 -- ----------------------------
-INSERT INTO `type_info` VALUES (1, '文学类', '陶冶情操');
-INSERT INTO `type_info` VALUES (2, '历史类', '了解历史文化');
-INSERT INTO `type_info` VALUES (3, '工学类', '造火箭');
-INSERT INTO `type_info` VALUES (4, '法学类', '学习法律，打官司');
-INSERT INTO `type_info` VALUES (5, '经济学类', '搞经济');
-INSERT INTO `type_info` VALUES (6, '统计学类', '学习统计，天下无敌');
+INSERT INTO `type_info` VALUES (1, '文学类', '文学类');
+INSERT INTO `type_info` VALUES (2, '历史类', '历史类');
+INSERT INTO `type_info` VALUES (3, '工学类', '工学类');
+INSERT INTO `type_info` VALUES (4, '法学类', '法学类');
+INSERT INTO `type_info` VALUES (5, '经济学类', '经济学类');
+INSERT INTO `type_info` VALUES (6, '统计学类', '统计学类');
 
 SET FOREIGN_KEY_CHECKS = 1;
