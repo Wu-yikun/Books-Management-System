@@ -8,10 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c083c56-5fe0-49ee-abb4-5818b547a8c1" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/library.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -238,7 +235,7 @@
       <workItem from="1623941491314" duration="212000" />
       <workItem from="1623976884331" duration="893000" />
       <workItem from="1624452444643" duration="327000" />
-      <workItem from="1624454858760" duration="1355000" />
+      <workItem from="1624454858760" duration="1408000" />
     </task>
     <servers />
   </component>
