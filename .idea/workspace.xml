@@ -8,7 +8,172 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c083c56-5fe0-49ee-abb4-5818b547a8c1" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/library.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/74251082-2956-4ce6-9f07-0a3691238066.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/74251082-2956-4ce6-9f07-0a3691238066.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_16.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_54.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_6_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_3_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/codeutil/IVerifyCodeGen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/codeutil/IVerifyCodeGen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/codeutil/RandomUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/codeutil/RandomUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/codeutil/SimpleCharVerifyCodeGenImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/codeutil/SimpleCharVerifyCodeGenImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/codeutil/VerifyCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/codeutil/VerifyCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/BaseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/BaseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/BookInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/BookInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/LendListController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/LendListController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/NoticeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/NoticeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/ReaderInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/ReaderInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/StatisticsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/StatisticsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/controller/TypeInfoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/controller/TypeInfoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/AdminMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/AdminMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/BookInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/BookInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/LendListMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/LendListMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/NoticeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/NoticeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/ReaderInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/ReaderInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/dao/TypeInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/dao/TypeInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/BookInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/BookInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/LendList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/LendList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/Notice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/Notice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/ReaderInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/ReaderInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/po/TypeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/po/TypeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/BookInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/BookInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/LendListService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/LendListService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/NoticeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/NoticeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/ReaderInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/ReaderInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/TypeInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/TypeInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/BookInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/BookInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/LendListServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/LendListServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/NoticeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/NoticeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/ReaderInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/ReaderInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/service/impl/TypeInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/service/impl/TypeInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yx/utils/DataInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wyk/utils/DataInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/AdminMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/AdminMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/BookInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/BookInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/LendListMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/LendListMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/NoticeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/NoticeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/ReaderInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/ReaderInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/yx/dao/TypeInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/wyk/dao/TypeInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/IVerifyCodeGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/IVerifyCodeGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/RandomUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/RandomUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/SimpleCharVerifyCodeGenImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/SimpleCharVerifyCodeGenImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/VerifyCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/codeutil/VerifyCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BookInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/BookInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LendListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LendListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/NoticeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/NoticeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/ReaderInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/ReaderInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/StatisticsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/StatisticsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/TypeInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/controller/TypeInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/AdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/AdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/BookInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/BookInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/LendListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/LendListMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/NoticeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/NoticeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/ReaderInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/ReaderInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/TypeInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/dao/TypeInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/BookInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/BookInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/LendList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/LendList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/ReaderInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/ReaderInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/TypeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/po/TypeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/BookInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/BookInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/LendListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/LendListService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/NoticeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/NoticeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/ReaderInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/ReaderInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/TypeInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/TypeInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/BookInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/BookInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/LendListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/LendListServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/NoticeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/NoticeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/ReaderInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/ReaderInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/TypeInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/service/impl/TypeInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/utils/DataInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/classes/com/yx/utils/DataInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/book/bookIndexOfReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/book/bookIndexOfReader.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/lend/lendListIndexOfReader.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/LibraryProject-1.0-SNAPSHOT/WEB-INF/pages/lend/lendListIndexOfReader.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/codeutil/IVerifyCodeGen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/codeutil/IVerifyCodeGen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/codeutil/RandomUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/codeutil/RandomUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/codeutil/SimpleCharVerifyCodeGenImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/codeutil/SimpleCharVerifyCodeGenImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/codeutil/VerifyCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/codeutil/VerifyCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/AdminController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/AdminController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/BaseController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/BaseController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/BookInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/BookInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/LendListController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/LendListController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/NoticeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/NoticeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/ReaderInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/ReaderInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/StatisticsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/StatisticsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/controller/TypeInfoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/controller/TypeInfoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/AdminMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/AdminMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/BookInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/BookInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/LendListMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/LendListMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/NoticeMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/NoticeMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/ReaderInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/ReaderInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/dao/TypeInfoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/dao/TypeInfoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/interceptor/LoginInterceptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/interceptor/LoginInterceptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/BookInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/BookInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/LendList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/LendList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/Notice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/Notice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/ReaderInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/ReaderInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/po/TypeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/po/TypeInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/AdminService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/AdminService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/BookInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/BookInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/LendListService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/LendListService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/NoticeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/NoticeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/ReaderInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/ReaderInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/TypeInfoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/TypeInfoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/AdminServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/AdminServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/BookInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/BookInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/LendListServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/LendListServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/NoticeServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/NoticeServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/ReaderInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/ReaderInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/service/impl/TypeInfoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/service/impl/TypeInfoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/utils/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/utils/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/yx/utils/DataInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yx/utils/DataInfo.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,17 +197,6 @@
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="@localhost" type="feb32156:DbDataSourceImpl" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
-        <item name="library: schema" type="76f4a085:MysqlImplModel$Schema" />
-      </path>
     </expand>
     <select />
   </component>
@@ -65,6 +219,13 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Software\Maven\.m2\repository" />
+        <option name="mavenHome" value="D:/Software/Maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\Software\Maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -81,8 +242,8 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="project.structure.side.proportion" value="0.25062656" />
+    <property name="settings.editor.selected.configurable" value="spring" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,13 +280,13 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../../~Repositories/Books-Management-System" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
       <method v="2" />
     </configuration>
-    <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="C:/Program Files/Java/jdk-13.0.2" nameIsGenerated="true">
+    <configuration name="Tomcat 8.0.50" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.50" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.8" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="LibraryProject:war exploded">
@@ -141,6 +302,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_LibraryProject" />
+        <option name="HTTP_PORT" value="80" />
+        <option name="JNDI_PORT" value="6666" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -235,7 +398,14 @@
       <workItem from="1623941491314" duration="212000" />
       <workItem from="1623976884331" duration="893000" />
       <workItem from="1624452444643" duration="327000" />
-      <workItem from="1624454858760" duration="1408000" />
+      <workItem from="1624454858760" duration="3192000" />
+      <workItem from="1624488081164" duration="309000" />
+      <workItem from="1632144704972" duration="1336000" />
+      <workItem from="1632397979366" duration="217000" />
+      <workItem from="1636610999250" duration="37000" />
+      <workItem from="1639694464522" duration="665000" />
+      <workItem from="1657027541942" duration="1087000" />
+      <workItem from="1657243084868" duration="1889000" />
     </task>
     <servers />
   </component>

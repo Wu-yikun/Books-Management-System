@@ -14,16 +14,16 @@
             <property name="forceBigDecimals" value="false" />
         </javaTypeResolver>
         <!-- 生成实体类和数据库表一一对应 -->
-        <javaModelGenerator targetPackage="com.yx.po" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\java">
+        <javaModelGenerator targetPackage="com.wyk.po" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\java">
             <property name="enableSubPackages" value="true"/>
             <!-- 从数据库返回的值被清理前后的空格  -->
             <property name="trimStrings" value="true" />
         </javaModelGenerator>
         <!--映射xml文件及dao接口-->
-        <sqlMapGenerator targetPackage="com.yx.dao" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\resources">
+        <sqlMapGenerator targetPackage="com.wyk.dao" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\resources">
             <property name="enableSubPackages" value="true"/>
         </sqlMapGenerator>
-        <javaClientGenerator type="XMLMAPPER" targetPackage="com.yx.dao" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\java">
+        <javaClientGenerator type="XMLMAPPER" targetPackage="com.wyk.dao" targetProject="D:\WorkSpace-\GitHub\library-system\src\main\java">
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 

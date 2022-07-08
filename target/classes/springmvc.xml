@@ -11,7 +11,7 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
     <!--开启注解扫描，只扫描Controller注解-->
-    <context:component-scan base-package="com.yx.controller"></context:component-scan>
+    <context:component-scan base-package="com.wyk.controller"></context:component-scan>
 
     <!--注册注解驱动（开启SpringMVC注解的支持）-->
     <mvc:annotation-driven>
@@ -40,7 +40,7 @@
             <mvc:exclude-mapping path="/login"/>
             <mvc:exclude-mapping path="/loginIn"/>
             <mvc:exclude-mapping path="/verifyCode"/>
-            <bean class="com.yx.interceptor.LoginInterceptor"></bean>
+            <bean class="com.wyk.interceptor.LoginInterceptor"></bean>
         </mvc:interceptor>
     </mvc:interceptors>
 
